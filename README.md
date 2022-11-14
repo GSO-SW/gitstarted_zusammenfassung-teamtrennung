@@ -9,6 +9,8 @@ In diesem Repo soll zusammengefasst werden, was man für die Arbeit mit git und 
 
 ## TODO
 - Begriffe definieren und erklären (z.B. repository, branch etc.)
+  -Repository: Ist eine Arbeitskopie von Entwicklern welche den vollständigen Verlauf der Änderungen enthalt
+
 - git Befehle für die Arbeit mit lokalen Repositories (inkl. Erläuterungen)
 - git Befehle für die Arbeit mit entfernten Repositories (inkl. Erläuterungen)
 
