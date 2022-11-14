@@ -16,9 +16,13 @@ In diesem Repo soll zusammengefasst werden, was man für die Arbeit mit git und 
 -git clone: wird verwendet um ein Repository zu verweisen und 
  unter einem neuen Speicherort einen Klon oder eine Kopie dieses Repositorys zu ersstellen.
 
--git push:
--git fetch:
--git pull:
+-git push: Der Befehl git push wird verwendet, um Inhalte aus einem lokalen Repository in ein Remote-Repository hochzuladen
+
+-git fetch:Mit dem Befehl git fetch werden Commits, Dateien und Verweise
+    aus einem Remote-Repository in dein lokales Repository heruntergeladen
+
+-git pull:Der git pull -Befehl wird verwendet, um Inhalte aus einem Remote-Repository herunterzuladen und unverzüglich das lokale
+ Repository zu aktualisieren, damit die Inhalte übereinstimmen.
 
 
 
