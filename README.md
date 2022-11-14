@@ -12,6 +12,17 @@ In diesem Repo soll zusammengefasst werden, was man für die Arbeit mit git und 
 - git Befehle für die Arbeit mit lokalen Repositories (inkl. Erläuterungen)
 - git Befehle für die Arbeit mit entfernten Repositories (inkl. Erläuterungen)
 
+
+-git clone: wird verwendet um ein Repository zu verweisen und 
+ unter einem neuen Speicherort einen Klon oder eine Kopie dieses Repositorys zu ersstellen.
+
+-git push:
+-git fetch:
+-git pull:
+
+
+
+
 ## TODO2
 - Fachbegriffe OOP erklären (mit Beispielen)
   - abstract (Klassen)
