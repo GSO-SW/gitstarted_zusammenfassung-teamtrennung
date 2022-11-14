@@ -19,6 +19,8 @@ In diesem Repo soll zusammengefasst werden, was man für die Arbeit mit git und 
 	- git commit
 	- git branch
 	- git init
+	- git siu.
+
 - git Befehle für die Arbeit mit entfernten Repositories (inkl. Erläuterungen)
 
 ## TODO2
