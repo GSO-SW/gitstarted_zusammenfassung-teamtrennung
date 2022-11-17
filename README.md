@@ -49,16 +49,6 @@ In diesem Repo soll zusammengefasst werden, was man für die Arbeit mit git und 
 - Branch: Ist ein Namensschild für einen commit.
 - Head: Beschreibt auf welchem branch du bist. 
 
-- git Befehle für die Arbeit mit lokalen Repositories (inkl. Erläuterungen)
-
-	git config --global user.name (Namen angeben)
-git config --global user.email (email angeben) git init (erstellt die Responsry) 
-git add (fügt datei hinzu) git commit -m "n" 
-(Fügt änderungen in ein neue git Branch git log git status git merge git cherry pick git rebase git checkout git clone git push git fetch git pull
-
-
->>>>>>> fbc7a4b8c3820014b5108a16fd3e02a8b0977553
-
 - git Befehle für die Arbeit mit entfernten Repositories (inkl. Erläuterungen)
 
 <<<<<<< HEAD
@@ -82,8 +72,8 @@ git add (fügt datei hinzu) git commit -m "n"
 ## TODO2
 - Fachbegriffe OOP erklären (mit Beispielen)
   - abstract (Klassen) : Ist da zur bereitstellung einer allgemeinen definition einer Basisklasse, die dann für mehrere kommenden Klassen freigegeben ist.
-  - abstract (Methoden)
-  - virtual
+  - abstract (Methoden) : Abstrakte Methoden legen lediglich die Signatur der Methode fest, ohne sie zu implementieren. Sie sind durch das Schlüsselwort abstract gekennzeichnet und haben keinen Rumpf (Anweisungsblock)
+  - virtual : Die virtuelle C#-Methode ist eine Methode, die in abgeleiteten Klassen neu definiert werden kann. In C# hat eine virtuelle Methode sowohl eine Implementierung in einer Basisklasse als auch eine abgeleitete Klasse.
   - override : Mit einem override überschreibt man virtuelle und Methoden einer Basisklasse - Beispiel: public abstragt string Word(); // public override string Word();
   - Polymorphie : Ist eine Liste welches Objekte der Mutter und Kinderklasse hinzufügt, welche bearbeitet werden können. - Beispiel: Class Mother, Class Child, List Mother = new List();
 - Wie überschreibt man die Methode `virtual string ToString()`? : public override string ToString(){}
