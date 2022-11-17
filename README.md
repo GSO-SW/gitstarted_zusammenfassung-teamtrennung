@@ -29,8 +29,8 @@ git add (fügt datei hinzu) git commit -m "n"
   - abstract (Klassen) : Ist da zur bereitstellung einer allgemeinen definition einer Basisklasse, die dann für mehrere kommenden Klassen freigegeben ist.
   - abstract (Methoden)
   - virtual
-  - override : Mit einem override überschreibt man virtuelle und Methoden einer Basisklasse - Beispiel: public abstragt string Wort(); // public override string Wort();
-  - Polymorphie
+  - override : Mit einem override überschreibt man virtuelle und Methoden einer Basisklasse - Beispiel: public abstragt string Word(); // public override string Word();
+  - Polymorphie : Ist eine Liste welches Objekte der Mutter und Kinderklasse hinzufügt, welche bearbeitet werden können. - Beispiel: Class Mother, Class Child, List Mother = new List();
 - Wie überschreibt man die Methode `virtual string ToString()`?
 
 
