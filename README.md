@@ -26,7 +26,7 @@ git add (fügt datei hinzu) git commit -m "n"
 
 ## TODO2
 - Fachbegriffe OOP erklären (mit Beispielen)
-  - abstract (Klassen)
+  - abstract (Klassen) : Ist da zur bereitstellung einer allgemeinen definition einer Basisklasse, die dann für mehrere kommenden Klassen freigegeben ist.
   - abstract (Methoden)
   - virtual
   - override
