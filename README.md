@@ -9,9 +9,20 @@ In diesem Repo soll zusammengefasst werden, was man für die Arbeit mit git und 
 
 ## TODO
 - Begriffe definieren und erklären (z.B. repository, branch etc.)
+  -Repository: Ist eine Arbeitskopie von Entwicklern welche den vollständigen Verlauf der Änderungen enthalt
+
 - git Befehle für die Arbeit mit lokalen Repositories (inkl. Erläuterungen)
+	- git log: 
+	- git show
+	- git add
+	- git commit
+	- git branch
+	- git init
+	- git siu.
+
 - git Befehle für die Arbeit mit entfernten Repositories (inkl. Erläuterungen)
 
+<<<<<<< HEAD
 
 -git clone: wird verwendet um ein Repository zu verweisen und 
  unter einem neuen Speicherort einen Klon oder eine Kopie dieses Repositorys zu ersstellen.
@@ -27,6 +38,8 @@ In diesem Repo soll zusammengefasst werden, was man für die Arbeit mit git und 
 
 
 
+=======
+>>>>>>> 
 ## TODO2
 - Fachbegriffe OOP erklären (mit Beispielen)
   - abstract (Klassen)
