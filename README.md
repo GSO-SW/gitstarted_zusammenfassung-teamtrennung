@@ -10,7 +10,7 @@ In diesem Repo soll zusammengefasst werden, was man für die Arbeit mit git und 
 ## TODO
 - Begriffe definieren und erklären (z.B. repository, branch etc.)
 - Repository: Ist eine Arbeitskopie von dir, welches den vollständigen Verlauf der Änderungen enthalt.
-- Branch: Ist ein Namensschild für einen anderen commit.
+- Branch: Ist ein Namensschild für einen commit.
 - Head: Beschreibt auf welchem branch du bist. 
 
 - git Befehle für die Arbeit mit lokalen Repositories (inkl. Erläuterungen)
